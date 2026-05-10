@@ -1,6 +1,6 @@
 # Dedicated Server Sample
 
-Dedicated server sample for Unity using ECS-style architecture.
+Simple dedicated server sample for Unity using ECS-style architecture.
 
 ## Features
 - Headless server build
